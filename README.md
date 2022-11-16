@@ -14,4 +14,3 @@
 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I don't like coding more than I like to do innovative stuffs in Startups.
--->
