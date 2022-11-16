@@ -21,8 +21,7 @@ I am Harsh Pandey currently pursuing BTech from Lovely Professional University a
 * 🆖 Node , Express
 
 ## Some of my works :
-<a href="https://ibb.co/gMcmkbb"><img src="https://i.ibb.co/3yP4g55/Screenshot-81.png" alt="Screenshot-81" border="0" width = "50%"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-<a href="https://ibb.co/whT5DbV"><img src="https://i.ibb.co/whT5DbV/twitter.png" alt="twitter" border="0" width = "50%"></a>
+<a href="https://ibb.co/gMcmkbb"><img src="https://i.ibb.co/3yP4g55/Screenshot-81.png" alt="Screenshot-81" border="0" width = "300px"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br /><a href="https://ibb.co/whT5DbV"><img src="https://i.ibb.co/Xx9cmd1/twitter.png" alt="twitter" border="0" width = "300px"></a>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PandeyHarsh433)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harsh-pandey-56a1961b6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100023977083779)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iharsh144/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/HarshPa58163449)  
