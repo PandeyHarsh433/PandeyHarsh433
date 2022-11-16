@@ -21,7 +21,7 @@ I am Harsh Pandey currently pursuing BTech from Lovely Professional University a
 * 🆖 Node , Express
 
 ## Some of my works :
-<img scr = "https://ibb.co/gMcmkbb" />
+<a href="https://ibb.co/gMcmkbb"><img src="https://i.ibb.co/3yP4g55/Screenshot-81.png" alt="Screenshot-81" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>photo uploading sites</a><br />
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PandeyHarsh433)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harsh-pandey-56a1961b6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100023977083779)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iharsh144/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/HarshPa58163449)  
