@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Startup Idea , Internship or any innovative Projects...
 - 🤔 I’m looking for help with my skill development and learning curve...
 - 💬 Ask me about Web-developing and Problem-solving
-- 📫 How to reach me: 
+- 📫 How to reach me:    
 ***[Twitter @HarshPa58163449](https://twitter.com/HarshPa58163449)   
 [Facebook : @HarshPandey](https://www.facebook.com/profile.php?id=100023977083779)   
 [Instagram @iharsh144](https://www.instagram.com/iharsh144/)   
