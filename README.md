@@ -10,7 +10,8 @@ I am Harsh Pandey currently pursuing BTech from Lovely Professional University a
 - 💬 Ask me about Web development and problem solving. 
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: I don't like coding more than I like to do innovative stuffs in Startups.
-- 
+
+
 ### Skills and Experience
 * 📄 Html
 * ❇ Css
