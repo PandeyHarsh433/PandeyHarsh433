@@ -12,14 +12,13 @@ I am Harsh Pandey currently pursuing BTech from Lovely Professional University a
 - ⚡ Fun fact: I don't like coding more than I like to do innovative stuffs in Startups.
 
 
-### Skills and Experience
-* 📄 Html
-* ❇ Css
-* 💻 JavaScript
+### Skills and Experience   
+
+* 💻 Html , CSS , JavaScript
 * ⚛ React
 * ☕ Java
-* 📦 Mongodb
-* 🆖 Node
+* 📦 Mongodb , Mongoose
+* 🆖 Node , Express
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PandeyHarsh433)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harsh-pandey-56a1961b6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100023977083779)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iharsh144/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/HarshPa58163449)  
