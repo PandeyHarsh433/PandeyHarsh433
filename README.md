@@ -12,5 +12,7 @@
 [LinkedIn : @harsh-pandey56a1961b6](https://www.linkedin.com/in/harsh-pandey-56a1961b6/)    
 [HackerRank : @pandeyharsh704](https://www.hackerrank.com/pandeyharsh704)***
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeyHarsh433)](https://github.com/PandeyHarsh433/github-readme-stats)
+
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I don't like coding more than I like to do innovative stuffs in Startups.
