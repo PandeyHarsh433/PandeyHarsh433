@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Harsh Pandey
-![]([https://www.canva.com/design/DAFSFsWYzI0/j5qKGqF0f_s9OpaziN4gAQ/view?utm_content=DAFSFsWYzI0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://pbs.twimg.com/profile_banners/1363910327499329537/1668583337/1080x360))
+![](https://pbs.twimg.com/profile_banners/1363910327499329537/1668583337/1080x360)
 
 I am Harsh Pandey currently pursuing BTech from Lovely Professional University and currently working on many things like Node, React, and Java skills and also working on my problem solving skills and I am open for internship and job opportunities in the same field. 
 
