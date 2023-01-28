@@ -13,11 +13,12 @@ I am Harsh Pandey currently pursuing BTech from Lovely Professional University a
 
 ### Skills and Experience   
 
+* ☕ Java
 * 💻 Html , CSS , JavaScript
 * ⚛ React
-* ☕ Java
 * 📦 Mongodb , Mongoose
 * 🆖 Node , Express
+* 📄 Problem Solving Skills
 
 ## Some of my works :
 <a href="https://admin-page-sage.vercel.app"><img src="https://i.ibb.co/ryCpmTm/Screenshot-81.png" alt="admin-page" width="40%"></a>
