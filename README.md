@@ -22,13 +22,14 @@ I am Harsh Pandey currently pursuing BTech from Lovely Professional University a
 
 ## My Portfolio :
 
-<a href="https://my-portfolio-chi-amber.vercel.app/"><img src="https://ibb.co/fYqgT01" alt="IMDB-clone" width="40%"></a>
+<a href="https://my-portfolio-chi-amber.vercel.app/"><img src="https://i.ibb.co/qM7S21y/Screenshot-104.png" alt="My-Portfolio" width="40%"></a>
 
 ## Some of my works :
+
+<a href="https://imdb-clone-roan.vercel.app"><img src="https://i.ibb.co/q7D2yYx/Screenshot-102.png" alt="IMDB-clone" width="40%"></a>
 <a href="https://admin-page-sage.vercel.app"><img src="https://i.ibb.co/ryCpmTm/Screenshot-81.png" alt="admin-page" width="40%"></a>
 <a href="https://twitterclone-eight.vercel.app"><img src="https://i.ibb.co/5KGZJhT/twitter.png" alt="twitter" width="40%"></a></br>
 <a href="https://tesla-clone-snowy.vercel.app"><img src="https://i.ibb.co/mGT2STM/Screenshot-85.png" alt="Tesla-Clone" width="40%"></a>
-<a href="https://imdb-clone-roan.vercel.app"><img src="https://ibb.co/QpJxbvX" alt="IMDB-clone" width="40%"></a>
 
 
 
