@@ -22,7 +22,7 @@ I am Harsh Pandey currently pursuing BTech from Lovely Professional University a
 
 ## My Portfolio :
 
-<a href="https://my-portfolio-chi-amber.vercel.app/"><img src="https://i.ibb.co/qM7S21y/Screenshot-104.png" alt="My-Portfolio" width="40%"></a>
+<a href="https://pandey-harsh-c2049f.netlify.app/"><img src="https://ibb.co/cL1V0sL" alt="My-Portfolio" width="40%"></a>
 
 ## Some of my works :
 
