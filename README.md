@@ -27,7 +27,7 @@ I am Harsh Pandey currently pursuing BTech from Lovely Professional University a
 ## Some of my works :
 
 <a href="https://imdb-clone-roan.vercel.app"><img src="https://i.ibb.co/q7D2yYx/Screenshot-102.png" alt="IMDB-clone" width="40%"></a>
-<a href="https://admin-page-sage.vercel.app"><img src="https://i.ibb.co/ryCpmTm/Screenshot-81.png" alt="admin-page" width="40%"></a>
+<a href="https://peaceful-cupcake-6ebc4d.netlify.app/"><img src="https://i.ibb.co/S6RHKQp/Screenshot-159.png" alt="My- Blogging website" width="40%"></a>
 <a href="https://twitterclone-eight.vercel.app"><img src="https://i.ibb.co/5KGZJhT/twitter.png" alt="twitter" width="40%"></a>
 <a href="https://tesla-clone-snowy.vercel.app"><img src="https://i.ibb.co/mGT2STM/Screenshot-85.png" alt="Tesla-Clone" width="40%"></a></br>
 
