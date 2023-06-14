@@ -15,7 +15,7 @@ I am Harsh Pandey currently pursuing BTech from Lovely Professional University a
 
 * ☕ Java
 * 💻 Html , CSS , JavaScript
-* ⚛ React
+* ⚛ React , Next
 * 📦 Mongodb , Mongoose
 * 🆖 Node , Express
 * 📄 Problem Solving Skills
