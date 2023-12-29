@@ -22,15 +22,14 @@ I am Harsh Pandey currently pursuing BTech from Lovely Professional University a
 
 ## My Portfolio :
 
-<a href="https://pandey-harsh-c2049f.netlify.app/"><img src="https://github.com/PandeyHarsh433/My-Portfolio/blob/master/public/Screenshot%202023-04-30%20142925.png?raw=true" alt="My-Portfolio" width="40%"></a>
+<a href="https://harsh-portfolio-v2.vercel.app/"><img src="https://github.com/PandeyHarsh433/images/blob/master/Screenshot%202023-12-29%20124956.png?raw=true" alt="My-Portfolio" width="40%"></a>
 
 ## Some of my works :
 
-<a href="https://movie-website-iota.vercel.app/"><img src="https://i.ibb.co/q7D2yYx/Screenshot-102.png" alt="IMDB-clone" width="40%"></a>
-<a href="https://peaceful-cupcake-6ebc4d.netlify.app/"><img src="https://i.ibb.co/S6RHKQp/Screenshot-159.png" alt="My- Blogging website" width="40%"></a>
-<a href="https://keen-faloodeh-579db6.netlify.app/"><img src="https://raw.githubusercontent.com/PandeyHarsh433/images/master/Screenshot%20(168).png?raw=true" alt="twitter" width="40%"></a>
-<a href="https://tesla-clone-snowy.vercel.app"><img src="https://i.ibb.co/mGT2STM/Screenshot-85.png" alt="Tesla-Clone" width="40%"></a></br>
-
+<a href="https://jotion-notes.vercel.app/"><img src="https://github.com/PandeyHarsh433/images/blob/master/Screenshot%20(186).png?raw=true" alt="Jotion" width="40%"></a>
+<a href="https://musicly-pi.vercel.app/"><img src="https://github.com/PandeyHarsh433/images/blob/master/Screenshot%20(190).png?raw=true" alt="Musicly" width="40%"></a>
+<a href="https://de-shop.vercel.app/"><img src="https://github.com/PandeyHarsh433/images/blob/master/Screenshot%20(192).png?raw=true" alt="ShopDe" width="40%"></a>
+<a href="https://movie-website-pi.vercel.app/"><img src="https://github.com/PandeyHarsh433/images/blob/master/Screenshot%202023-12-29%20123358.png?raw=true" alt="CinePhile" width="40%"></a></br>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PandeyHarsh433)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harsh-pandey-56a1961b6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100023977083779)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iharsh144/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/HarshPa58163449)  
