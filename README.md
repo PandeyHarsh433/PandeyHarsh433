@@ -14,10 +14,10 @@ I am Harsh Pandey currently pursuing BTech from Lovely Professional University a
 ### Skills and Experience   
 
 * ☕ Java
-* 💻 Html , CSS , JavaScript
+* 💻 Html , CSS , JavaScript , Typescript
 * ⚛ React , Next , Webpack , Babel
-* 📦 Mongodb , Mongoose , Firebase 
-* 🆖 Node , Express
+* 📦 Mongodb , Mongoose , Firebase , Postgress , TypeORM
+* 🆖 Node , Express , Nestjs
 * ⚙ Solidity , Ether.js , Web3.js , OpenZeppelin , Truffle , Hardhat , Chai
 * 📄 Problem Solving Skills
 
