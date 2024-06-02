@@ -1,14 +1,14 @@
 ### Hi there 👋, I am Harsh Pandey
 
-I am Harsh Pandey currently pursuing BTech from Lovely Professional University and currently working on many things like Node, React, and Java skills and also working on my problem solving skills and I am open for internship and job opportunities in the same field. 
+I am Harsh Pandey, currently honing my skills in Node.js, React, and Java, while actively enhancing my problem-solving abilities. I am open to job opportunities in these fields and eager to contribute to innovative projects.
 
-- 🔭 I’m currently working on my portfolio and CV. 
-- 🌱 I’m regularly updating myself with new technologies.
-- 👯 I’m looking to collaborate on startup based projects and internship. 
-- 🤔 I’m looking for help with my portfolio and skill development 
-- 💬 Ask me about Web development and problem solving. 
-- 😄 Pronouns: He/His 
-- ⚡ Fun fact: I don't like coding more than I like to do Innovative Stuffs.
+- 🔭 I’m currently working as Junior Full Stack Developer.
+- 🌱 I constantly update myself with the latest technologies.
+- 👯 I'm looking to collaborate on startup projects and internships.
+- 🤔 I seek assistance with my portfolio and further skill development.
+- 💬 Feel free to ask me about web development and problem-solving.
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I enjoy creating innovative solutions even more than coding itself.
 
 
 ### Skills and Experience   
