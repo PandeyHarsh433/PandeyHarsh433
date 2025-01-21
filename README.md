@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Harsh Pandey
 
-I am Harsh Pandey, currently honing my skills in Node.js, React, and Java, while actively enhancing my problem-solving abilities. I am open to job opportunities in these fields and eager to contribute to innovative projects.
+I am Harsh Pandey, currently honing my skills in Backend development and Web3, while actively enhancing my problem-solving abilities. I am open to job opportunities in these fields and eager to contribute to innovative projects.
 
 - 🔭 I’m currently working as Junior Full Stack Developer.
 - 🌱 I constantly update myself with the latest technologies.
