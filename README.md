@@ -15,10 +15,11 @@ I am Harsh Pandey, currently honing my skills in Node.js, React, and Java, while
 
 * ☕ Java
 * 💻 Html , CSS , JavaScript , Typescript
-* ⚛ React , Next , Webpack , Babel
-* 📦 Mongodb , Mongoose , Firebase , Postgress , TypeORM
+* ⚛  React , Next , Webpack , Babel
+* 📦 MySql, Mongodb , Mongoose , Firebase , Postgress , TypeORM
 * 🆖 Node , Express , Nestjs
-* ⚙ Solidity , Ether.js , Web3.js , OpenZeppelin , Truffle , Hardhat , Chai
+* ⚙  AWS , Google Cloud , Docker , Kubernetes , 
+* 🪙 Solidity , Rust , Ethereum , Solana , Ether.js , Web3.js , OpenZeppelin , Truffle , Hardhat , Jest , Chai
 * 📄 Problem Solving Skills
 
 ## My Portfolio :
