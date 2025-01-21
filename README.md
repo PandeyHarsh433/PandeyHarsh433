@@ -24,7 +24,7 @@ I am Harsh Pandey, currently honing my skills in Node.js, React, and Java, while
 
 ## My Portfolio :
 
-<a href="https://harsh-portfolio-v2.vercel.app/" target="_blank"><img src="https://github.com/PandeyHarsh433/images/blob/master/Screenshot%202023-12-29%20124956.png?raw=true" alt="My-Portfolio" width="40%"></a>
+<a href="https://harsh-portfolio-v2.vercel.app/" target="_blank"><img src="https://github.com/IsThisHarsh/images/blob/main/image.png?raw=true" alt="My-Portfolio" width="40%"></a>
 
 ## Some of my works :
 
